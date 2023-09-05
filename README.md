@@ -1,1 +1,2 @@
-# c_features
+# Introduction
+This is a repo for all examples I came across when learning C and its features. I will try to keep it updated as I learn more and more about C. I will also try to keep the examples as simple as possible so that it is easy to understand. 

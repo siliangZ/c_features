@@ -1,10 +1,10 @@
 {
-    "makefile.makefilePath": "/home/siliang/NVME/c_features/data_types/Makefile",
+    "makefile.makeDirectory": "${workspaceFolder}/data_types",
     "makefile.launchConfigurations": [
         {
-            "cwd": "/home/siliang/NVME/c_features",
-            "binaryPath": "/home/siliang/NVME/c_features/main",
+            "cwd": "${workspaceFolder}/data_types/target",
+            "binaryPath": "${workspaceFolder}/data_types/target/main",
             "binaryArgs": []
         }
-    ]
+    ],
 }

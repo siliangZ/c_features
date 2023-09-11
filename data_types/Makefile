@@ -1,4 +1,4 @@
 
 .PHONY: all
 all: 
-	cd "./data_types" && gcc -o main main.c
+	gcc -o ./target/main main.c
